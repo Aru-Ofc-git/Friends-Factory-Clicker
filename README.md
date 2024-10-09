@@ -35,7 +35,6 @@ pkg install git
 ```bash
 sudo apt-get install git
 ```
-> <h3>Windows</h3>
 > <h2><p align='center'><b>Install Rquired Module</b></p></h2>
 > <h3><p align='center'><b>install requests</b></p></h2>
 > <h3>Termux/Linux</h3>
